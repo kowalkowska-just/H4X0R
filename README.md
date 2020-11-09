@@ -1,13 +1,13 @@
 # H4X0R
 ### It is a Hacker News reader application.
-In this project I used the Hacker News API to get hold of the latest articles that are trending. API provided by https://hn.algolia.com, which is pretty simple to work. There's no reistration required. You don't even need an API key. It just has a limit as to the number of reguests that you can make. So it limites you to 10000 requests from the same IP per hour.
-#### Interface this app s very simple. On the left-hand side, we've got the upvotes and we've ot the title of the Hacker News posts in the middle. When you click on it, it takes you to a web view and shows you the actual article. And you can scroll through to read the full article. 
+In this project I used the Hacker News API to get hold of the latest articles that are trending. API provided by https://hn.algolia.com, which is pretty simple to work. There's no registration required. You don't even need an API key. It just has a limit as to the number of reguests that you can make. So it limites you to 10000 requests from the same IP per hour.
+#### Interface this app is very simple. On the left-hand side, we've got the upvotes and we've at the title of the Hacker News posts in the middle. When you click on it, it takes you to a web view and shows you the actual article. And you can scroll through to read the full article.
 
 ### In this applcation I learned about: 
 - How to work with SwiftUI Lists and the Identifiable Protocol.
 - How to use Navigation View to navigate between the List and a detail View. 
 - Advanced State Management using the Observer Design Pattern. 
-- How to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in your application. 
+- How to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in this application.
 
 ### Dark-mode 
 <p align = "center">
